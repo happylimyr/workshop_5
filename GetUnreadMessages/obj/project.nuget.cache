@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kJyOaz1i0mVSkjSRaRVjLabtmK5j5u0DfwEU7Hq85OveMi4n9kPHh7P/AViwab9/EoAsQW7hWPJcbCJqFsREQ==",
+  "success": true,
+  "projectFilePath": "D:\\EPAM_Marathon\\dotnet\\web-sockets\\GetUnreadMessages\\GetUnreadMessages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\limyr\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.0\\amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.0\\amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\awssdk.core\\3.7.300\\awssdk.core.3.7.300.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.300\\awssdk.dynamodbv2.3.7.300.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\limyr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

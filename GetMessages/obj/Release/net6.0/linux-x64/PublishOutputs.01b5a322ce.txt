@@ -1,0 +1,9 @@
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\GetMessages.deps.json
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\GetMessages.runtimeconfig.json
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\GetMessages.pdb
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\AWSSDK.Core.dll
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+D:\EPAM_Marathon\dotnet\web-sockets\GetMessages\bin\Release\net6.0\publish\GetMessages.dll

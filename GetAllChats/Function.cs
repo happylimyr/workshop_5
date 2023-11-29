@@ -33,12 +33,10 @@ public class Function
 
         request.QueryStringParameters.TryGetValue("lastid", out var lastId);
 
-        List<Chat> chats = await GetAllChats(userId,pageSize,lastId);
+        List<Chat> chats = await GetAllChats(userId, pageSize, lastId);
 
         var result = new List<GetAllChatsResponseItem>(chats.Count);
 
-        // TODO 
-        
 
         if (pageSize == 1000 || pageSize < 1)
             return new APIGatewayProxyResponse
@@ -62,7 +60,7 @@ public class Function
             { "Access-Control-Allow-Origin", "*" }
         },
             Body = JsonSerializer.Serialize(new
-            {  Chats = result }
+            { Chats = result }
         )
         };
 
